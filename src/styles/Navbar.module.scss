@@ -1,0 +1,11 @@
+.navList {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    list-style: none;
+
+    & li {
+        color: #fff;
+        cursor: pointer;
+    }
+}
